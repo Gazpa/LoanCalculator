@@ -1,0 +1,11 @@
+.input-wrapper {
+  padding: 5px;
+}
+
+.input-wrapper span {
+  margin: 5px;
+}
+
+.input-wrapper input {
+  font-size: 1rem;
+}

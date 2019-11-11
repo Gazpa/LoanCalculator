@@ -1,0 +1,11 @@
+.results-wrapper {
+  width: 45%;
+  background: lightsteelblue;
+  margin: 5px;
+  display: inline-block;
+}
+
+.results-wrapper .results-title {
+  padding: 5px;
+  font-weight: bold;
+}
